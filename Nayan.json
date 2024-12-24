@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "bby",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "bby",
+  "PREFIX": "!",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61571103389958",
+    "61566533590967"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61566533590967",
     ""
   ],
   "OWNER": ["100000959749712"], 
